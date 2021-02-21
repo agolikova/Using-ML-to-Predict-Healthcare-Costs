@@ -1,4 +1,4 @@
-# Using-ML-to-Predict-Healthcare-Costs
+# Using Machine Learning to Predict Healthcare Costs
 
 The aim of this project is to predict healthcare costs using a regression algorithm.
 
