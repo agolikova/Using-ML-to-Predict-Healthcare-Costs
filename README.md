@@ -17,3 +17,7 @@ File name: [insurance.csv](https://github.com/agolikova/Using-Machine-Learning-t
 * Test your model using the unseen test_dataset
 * To pass the challenge, model.evaluate must return a Mean Absolute Error of under 3500, meaning it predicts health care costs correctly within $3500
 * Predict expenses using the test_dataset and graph the results
+
+### Code
+
+My code in Python 3 can be viewed [here](https://github.com/agolikova/Using-Machine-Learning-to-Predict-Healthcare-Costs/blob/main/Model.ipynb).
